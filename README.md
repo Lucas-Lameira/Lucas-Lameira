@@ -1,4 +1,4 @@
-# **Welcome** to my **github** 👋:earth_americas:
+# **Welcome** to my **github** 👋
 <div>
   <a href="https://github.com/Lucas-Lameira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lameira&layout=compact&langs_count=7&theme=tokyonight"/>
